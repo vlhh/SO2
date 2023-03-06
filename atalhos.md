@@ -1,11 +1,11 @@
-#### salvar e sair
+### salvar e sair
 ctrl + x
 
-#### limpar
+### limpar
 ctrl + l
 
-#### sudo init 6
+### sudo init 6
  reiniciar
 
-#### sudo init 0
+### sudo init 0
 desligar
